@@ -1,0 +1,13 @@
+{
+    "name": "desapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "electron": "^12.0.2"
+    }
+  }
