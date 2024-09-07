@@ -1,0 +1,1 @@
+La aplicación web está alojada en CRUD, y para ejecutar la aplicación de escritorio de Electro, es necesario utilizar los comandos npm start y php artisan serve. Esto asegura que ambos entornos funcionen correctamente y se comuniquen entre sí.
